@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+h1{
+    color: rgb(123, 3, 235)
+}
+
+.rahena{
+    color: rgb(9, 173, 119);
+}
+
+#aziz{
+color: red
+
+}
+.one{
+    height: 300px;
+    width: 400px ;
+    background-color: teal;
+    margin: 100px 200px 80px 50px;
+    font-size: 15px;
+
+    }
+    .one h3{
+        padding: 70px;
+        text-align: center;
+        color: yellow;
+    }
+
+.two{
+    height: 300px ;
+    width: 400px ;
+    background-color: pink;
+    text-align: center;
+
+    
+}
+.two h3{
+    padding: 70px;
+    color:red
+
+}
+
+
+.pitamata{
+    display: flex;
+    justify-content: space-around
+}
